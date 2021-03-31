@@ -23,9 +23,7 @@
   <entry>
     <title>加密</title>
     <url>/2021/03/31/%E5%8A%A0%E5%AF%86/</url>
-    <content><![CDATA[<p>此篇文章主要介绍对称加密与非对称加密</p>
-<span id="more"></span>
-
+    <content><![CDATA[<p>​    由于本人突然间对ssh协议远程加密登录所感兴趣，于是便开始了解对称加密（私钥）与非对称加密（公钥、私钥）。以下是本人对两者加密方式的理解。</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">#include&lt;stdio.h&gt;</span><br></pre></td></tr></table></figure>
 
 <figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;stdio.h&gt;</span></span></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span>&#123;</span><br><span class="line">    <span class="built_in">printf</span>(<span class="string">&quot;hello markdown&quot;</span>)</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
@@ -69,7 +67,7 @@
 <p><a href="https://blog.youngfa.cf/" title="Markdown">this is a link</a></p>
 ]]></content>
       <categories>
-        <category>网络安全</category>
+        <category>网络</category>
       </categories>
       <tags>
         <tag>安全</tag>
